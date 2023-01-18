@@ -1,4 +1,4 @@
-# Nodejs Express API Basics
+# ChatGPT App with NextJS and OpenAI API Integration
 
 This code is part of the [Galaxies.dev NextJS ChatGPT Bot Tutorial](https://galaxies.dev/nextjs-chatbot-openai).
 
